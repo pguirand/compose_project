@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">compose_project</string>
+    <string name="show_less">Preview of the content</string>
+    <string name="show_more">"full preview of content for jetcompose assignment "</string>
+</resources>
